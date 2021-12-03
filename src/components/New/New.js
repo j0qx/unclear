@@ -1,4 +1,4 @@
-import './New.scss';
+import './New.css';
 
 const New = () => (
 <div></div>

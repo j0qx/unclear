@@ -1,4 +1,4 @@
-import './Tournaments.scss';
+import './Tournaments.css';
 
 const Tournaments = () => (
 <div></div>

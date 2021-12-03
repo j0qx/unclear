@@ -1,4 +1,4 @@
-import './News.scss';
+import './News.css';
 
 const News = () => (
 <div></div>

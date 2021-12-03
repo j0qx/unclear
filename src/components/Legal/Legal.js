@@ -1,4 +1,4 @@
-import './Legal.scss';
+import './Legal.css';
 
 const Legal = () => (
 <div></div>
