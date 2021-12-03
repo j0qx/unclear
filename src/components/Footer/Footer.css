@@ -1,4 +1,34 @@
 /* Mobile Responsive */
+/* Mobile Responsive */
 @media (max-width: 1100px){
   
+}
+/* Desktop Responsive */
+
+.footer{
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+/* Mobile Responsive */
+  height: 5rem;
+  background-color: #1e1f26;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+/* footer title */
+.footer__title{
+  font-family: 'cartoon';
+  color: #f4d7e8;
+  font-size: 1.5rem;
+  padding:0 1.5rem;
+ }
+ .footer__title a:visited, a:link
+ {
+     text-decoration: none;
+ }
+ .footer__title:hover {
+  -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
+  -webkit-mask-size: 200%;
+  animation: shine 2s infinite;
 }
